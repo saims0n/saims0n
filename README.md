@@ -5,8 +5,7 @@
 - 📫 How to reach me - You can Mail Me saimson.in@gmail.com or Visit [ My Website](https://saims0n.github.io "Saimson.com")
 - <img src="https://img.icons8.com/ios/26/000000/twitter--v2.png"/> Follow me on twitter
 <a class="twitter-follow-button"
-  href="https://twitter.com/saims0n">
-Follow @Saims0n</a>
+  href="https://twitter.com/saims0n"> @Saims0n</a>
 
 
 <!---
