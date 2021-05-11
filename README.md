@@ -7,6 +7,7 @@
 <a class="twitter-follow-button"
   href="https://twitter.com/saims0n"> @Saims0n</a>
 
+![image](https://user-images.githubusercontent.com/53370662/117848874-59bd7780-b2a1-11eb-83ef-ad41b27dc6d3.png)
 
 <!---
 saims0n/saims0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
